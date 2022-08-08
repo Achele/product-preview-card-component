@@ -39,7 +39,7 @@ body {
         border-radius: 0.7em 0.7em 0 0;
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(images/image-product-mobile.jpg);
 }
 
 /* Typography */
